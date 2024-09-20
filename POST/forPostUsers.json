@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "username": "Monkey",
+        "age": 25,
+        "country": "Mexico"
+    },
+    {
+        "id": 527,
+        "username": "Monkey",
+        "age": 20,
+        "country": "Germany"
+    },
+    {
+        "id": 770,
+        "username": "Lion",
+        "age": 40,
+        "country": "India"
+    }
+]
